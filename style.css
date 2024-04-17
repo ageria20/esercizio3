@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+.img-main {
+    height: 500px;
+    background-image: url(https://calabriastraordinaria.it/api/image-loader?url=%2Fstorage%2Fimages%2F3629%2FScilla.jpg&w=1200&q=75);
+    background-repeat: no-repeat;
+
+}
+
+.img-tropea {
+  height: 500px;
+  background-image: url(https://calabriastraordinaria.it/api/image-loader?url=%2Fstorage%2Fimages%2F3572%2FTropea.jpeg&w=1200&q=75);
+  background-repeat: no-repeat;
+}
+
+.img-chianalea {
+  height: 500px;
+  background-image: url(https://calabriastraordinaria.it/api/image-loader?url=%2Fstorage%2Fimages%2F723%2Faf436f6697ac7d679d063c8dfeb20f12.jpg&w=1200&q=75);
+  background-repeat: no-repeat;
+}
+
+.img-bagnara {
+  height: 500px;
+  background-image: url(https://calabriastraordinaria.it/api/image-loader?url=%2Fstorage%2Fimages%2F2674%2F2d5a0fe1502dcc090ceafa38704193f6.jpg&w=1200&q=75);
+  background-repeat: no-repeat;
+}
+
+.img-rc {
+  height: 500px;
+  background-image: url(https://calabriastraordinaria.it/api/image-loader?url=%2Fstorage%2Fimages%2F3508%2Frc-lungomare-2-%25281%2529.jpg&w=1200&q=75);
+  background-repeat: no-repeat;
+}
+
+.img-palmi {
+  height: 500px;
+  background-image: url(https://calabriastraordinaria.it/api/image-loader?url=%2Fstorage%2Fimages%2F2681%2Fbb302aab998f9557a8476284e8dccab5.jpg&w=1200&q=75);
+  background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: "Prata", sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+a:link {
+  font-weight: 600;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4b9655;
+}
+
+h6 {
+  padding: 22px;
+  margin-bottom: 0;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(to right, #4b9655, #8ac1ee)
+}
+
+ul > li {
+  list-style-type: none;
+  padding: 6px 0 22px 6px;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+footer {
+  background-color: black;
+  padding: 16px;
+  margin-top: 165px;
+  text-align: center;
+}
+
+footer > a {
+  color: white;
+}
